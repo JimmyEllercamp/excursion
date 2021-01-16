@@ -6,6 +6,18 @@ h1 {
   text-align: center;
 }
 
+h1.yptg {
+    font-size: 42px;
+    font-weight: 300;
+    font-family: Verdana;
+}
+
+.about_p {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
 .dlink {
 color: aquamarine;
 font-size: 16px;
@@ -16,3 +28,10 @@ main {
     background-color: black;
     text-align: center;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }

@@ -1,15 +1,17 @@
-h1 {
+h1.title {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
+  padding-top: 20px;
 }
 
 h1.yptg {
     font-size: 42px;
     font-weight: 300;
     font-family: Verdana;
+    color: white;
 }
 
 .about_p {
@@ -34,4 +36,17 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 60%;
+  }
+
+  .icon {
+      height: 100px;
+      width: auto;
+      margin-left: auto;
+      margin-right: auto;
+
+  }
+
+  .footer {
+      color: gray;
+      text-align: right;
   }

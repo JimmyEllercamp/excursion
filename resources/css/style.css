@@ -6,7 +6,7 @@ h1 {
   text-align: center;
 }
 
-#dlink {
+.dlink {
 color: aquamarine;
 font-size: 16px;
 text-decoration: underline;

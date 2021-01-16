@@ -4,7 +4,8 @@ h1.title {
   font-size: 50px;
   color: white;
   text-align: center;
-  padding-top: 20px;
+  margin: auto;
+  
 }
 
 h1.yptg {
@@ -28,7 +29,9 @@ text-decoration: underline;
 
 main {
     background-color: black;
+    color: white;
     text-align: center;
+    margin: 0%;
 }
 
 img {
@@ -51,4 +54,8 @@ img {
       text-align: right;
       padding-top: 10px;
       font-size: 32px;
+  }
+
+  body {
+      margin: 0%;
   }
